@@ -7,4 +7,4 @@ From mobile apps to web experiences, I love to build meaningful software coverin
 Mobile App Development • Product Management • Human-Centered Design
 
 **Contact Me**  
-[LinkedIn](https://www.linkedin.com/in/lukasplenk/) • [E-Mail](lukas.plenk@campus.lmu.de) • [LMU Developers](https://www.lmu-dev.org/)
+[LinkedIn](https://www.linkedin.com/in/lukasplenk/) • [Email](mailto:lukas.plenk@campus.lmu.de) • [LMU Developers](https://www.lmu-dev.org/)

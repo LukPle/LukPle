@@ -1,4 +1,4 @@
-## Hey there, I`m Lukas 👋
+## Hey there, I'm Lukas 👋
 
 I design and develop products with people in mind.  
 
